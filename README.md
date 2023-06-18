@@ -35,4 +35,4 @@ Javascript, HTML, CSS...
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[![License](https://choosealicense.com/licenses/mit/<SUBJECT>-<MIT>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/License-MIT-<COLOR>.svg)](https://shields.io/)
