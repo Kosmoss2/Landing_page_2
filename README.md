@@ -17,7 +17,7 @@ Javascript, HTML, CSS...
 
 ## Screenshots
 
-![App Screenshot](src/img/img1.jpg)
+![App Screenshot](src/img/img1.png)
 
 
 ## 🔗 Links
